@@ -12,3 +12,11 @@ print(discount)
 print(final_cost)
 print(vat)
 print(real_final_cost)
+
+company_name = "디자인폴더"
+name = "정해찬"
+position = "과장"
+
+print(company_name)
+print(name)
+print(position)
