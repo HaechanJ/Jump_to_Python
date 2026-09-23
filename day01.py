@@ -16,7 +16,6 @@ print(real_final_cost)
 company_name = "디자인폴더"
 name = "정해찬"
 position = "과장"
+name_plate = company_name + " " + name + " " + position
 
-print(company_name)
-print(name)
-print(position)
+print(name_plate)
