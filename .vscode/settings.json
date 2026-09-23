@@ -1,0 +1,17 @@
+{
+    // 코딩 연습용: 자동 완성·추천 끄기 (이 폴더에만 적용)
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off",
+    "github.copilot.enable": {
+        "*": false
+    }
+}
