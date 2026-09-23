@@ -1,3 +1,5 @@
+'숫자, 변수, 문자열 기초'
+
 price = 500000
 quantity = 3
 
@@ -6,6 +8,7 @@ discount = total_cost * 0.2
 final_cost = total_cost - discount
 vat = final_cost * 0.1
 real_final_cost = final_cost + vat
+
 
 print(total_cost)
 print(discount)
@@ -19,3 +22,5 @@ position = "과장"
 name_plate = company_name + " " + name + " " + position
 
 print(name_plate)
+
+
