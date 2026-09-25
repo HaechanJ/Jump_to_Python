@@ -13,3 +13,7 @@ player["level"] = 2
 
 print(player["hp"])
 print(player["level"])
+
+player["gold"] = 500
+
+print(player["gold"])
