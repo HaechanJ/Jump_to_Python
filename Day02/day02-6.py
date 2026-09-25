@@ -8,8 +8,8 @@ player = {
 print(player["name"])
 print(player["hp"])
 
-player["hp"] = "70"
-player["level"] = "2"
+player["hp"] = 70
+player["level"] = 2
 
-print(player("hp"))
-print(player("level"))
+print(player["hp"])
+print(player["level"])
